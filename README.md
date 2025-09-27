@@ -1,4 +1,4 @@
 # Website
-https://hybloxspook.bio
+https://hyblox.spook.bio
 ## The Official Hyblox Website.
 
